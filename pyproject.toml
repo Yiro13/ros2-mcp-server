@@ -1,7 +1,7 @@
 [project]
 name = "ros2-mcp-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "A lightweight Model Context Protocol server for interacting with ROS2 topics via command-line tools"
 readme = "README.md"
 requires-python = ">=3.14.0"
 dependencies = [
