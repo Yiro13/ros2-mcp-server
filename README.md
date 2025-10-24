@@ -96,7 +96,7 @@ uv run ruff check .
 
 ## License
 
-Copyright 2024 [Your Name or Organization]
+Copyright 2024 [Mars Rover UdeGSpace]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
